@@ -41,5 +41,3 @@ I am a freelance writer focused on creating clear, structured content that aims 
 
 Phone Number: +57 3107630448
 Mail: ferleysluna12@gmail.com / ferchostaroficial@gmail.com
-
-📧 Puedes contactarme para trabajos o colaboraciones  
