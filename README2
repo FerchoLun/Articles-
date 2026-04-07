@@ -1,0 +1,65 @@
+# 🛡️ Detección y Remediación de Vulnerabilidades
+
+Este repositorio contiene un análisis práctico sobre la detección y remediación de vulnerabilidades en sistemas informáticos, integrando enfoques tradicionales con tecnologías modernas como la inteligencia artificial.
+
+---
+
+## 📌 Descripción
+
+En el contexto actual, las organizaciones enfrentan amenazas cibernéticas cada vez más sofisticadas. Este proyecto aborda cómo identificar, analizar y corregir vulnerabilidades de forma eficiente, destacando el papel de la automatización y el análisis predictivo en la ciberseguridad.
+
+---
+
+## 🚀 Contenido
+
+- Conceptos fundamentales de vulnerabilidades
+- Métodos de detección:
+  - Escaneo automatizado
+  - Pentesting
+  - SAST (Static Application Security Testing)
+  - DAST (Dynamic Application Security Testing)
+- Gestión del ciclo de vulnerabilidades
+- Estrategias de remediación
+- Aplicación de inteligencia artificial en ciberseguridad
+- Buenas prácticas y enfoque continuo
+
+---
+
+## 🧠 Herramientas y tecnologías
+
+- Nessus  
+- OpenVAS  
+- Burp Suite  
+- Qualys  
+- Nexpose  
+
+---
+
+## 🎯 Objetivo
+
+Analizar los métodos actuales de detección y remediación de vulnerabilidades, demostrando cómo la inteligencia artificial mejora la eficiencia, precisión y capacidad de respuesta ante amenazas.
+
+---
+
+## 💼 Valor profesional
+
+Este proyecto demuestra competencias en:
+
+- Ciberseguridad aplicada  
+- Análisis de vulnerabilidades  
+- Gestión de riesgos  
+- Uso de herramientas especializadas  
+- Integración de inteligencia artificial  
+
+---
+
+## 📄 Autor
+
+**Ferleys Luna Lozano**  
+Estudiante de Ingeniería de Sistemas  
+
+---
+
+## 📎 Nota
+
+Este proyecto fue desarrollado como parte de formación académica en ciberseguridad y refleja conocimientos teóricos aplicados a contextos reales.
